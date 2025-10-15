@@ -1,2 +1,3 @@
 # Starter-Pokemon-Selector
 Find your starter Pokémon
+This is a beginner project for my journey into learning python...
